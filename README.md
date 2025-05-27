@@ -25,3 +25,5 @@ Smart Contracts and dApps: Developers can build decentralized applications on to
 
 Pixelcoin’s unique blend of cutting-edge technology, community-oriented goals, and real-world utility positions it as a compelling alternative to first-generation cryptocurrencies. Whether you're a miner, developer, investor, or everyday user, Pixelcoin offers a versatile and scalable solution for the future of digital finance.
 
+Developer Information: trippthomas456@gmail.com
+
